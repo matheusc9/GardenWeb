@@ -31,7 +31,9 @@ Choose from a variety of flowers, decide how you want to plant them, and watch y
 ---
 
 ## 📸 Preview
-(Add a screenshot or GIF of your project here if you want)
+
+![GardenWeb Preview](preview.png)
+
 
 ---
 
