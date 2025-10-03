@@ -2,7 +2,7 @@ const flowers = ['🌸','🌹','🌷','🪻','🌼','🌻','🌺','🥀','🏵�
 const garden = document.querySelector('.garden');
 const flowerSelect = document.querySelector('#flowerSelect');
 const growtypeSelect = document.querySelector('#growtype');
-const audio = new Audio('click.mp3');
+const audio = new Audio('./assets/click.mp3'); audio.volume = 1;
 
 function flower() {
     if (flowerSelect.value == 'random') {
@@ -23,6 +23,7 @@ function createPlant(i) {
         flowerElement.textContent = flower();
         flowerElement.style.textShadow = '4px 4px 8px gray;';
 
+        //audio.currentTime = 0;
         audio.play();
 
         flowerElement.classList.add("hover-animation");
