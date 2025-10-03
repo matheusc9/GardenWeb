@@ -37,5 +37,7 @@ Choose from a variety of flowers, decide how you want to plant them, and watch y
 
 ---
 
-## 👤 Author
-Made by [Matheus C9](https://github.com/matheusc9) 🌻
+# ⏏️ Demo
+
+🌐 [Live Demo](https://SEU-USUARIO.github.io/GardenWeb/)
+
